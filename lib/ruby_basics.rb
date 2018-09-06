@@ -6,7 +6,7 @@ def assign_variable(name = "Raj")
   name
 end
 
-def argue(argument)
+def argue(argument = "x")
   return argue
 end
 
