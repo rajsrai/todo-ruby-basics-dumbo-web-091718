@@ -11,9 +11,7 @@ def argue()
 end
 
 def greeting(hello, name)
-hello = "hello"
-name = "Raj"
-greeting
+
 end
 
 def return_a_value
